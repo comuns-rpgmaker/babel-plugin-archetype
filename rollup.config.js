@@ -35,7 +35,7 @@ export default [
             }
         ],
         plugins: [
-            babel()
+            babel({ "presets": ["@babel/preset-env"] })
         ]
 	}
 ];
