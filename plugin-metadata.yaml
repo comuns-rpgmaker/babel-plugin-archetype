@@ -1,0 +1,8 @@
+target: MZ
+author: Comuns
+description: Babel plugin archetype
+help: |-  
+    Babel Plugin Archetype.
+
+    This is a plugin archetype, it does not provide any functionality, only a
+    template for other plugins.
