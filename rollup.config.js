@@ -37,7 +37,7 @@ export default [
             }
         ],
         plugins: [
-            babel({ "presets": ["@babel/preset-env"] })
+            babel({ "presets": ["@babel/preset-env"], babelHelpers: 'bundled' })
         ]
 	}
 ];
